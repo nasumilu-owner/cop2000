@@ -17,4 +17,4 @@ Professor: [Debbie Reid](https://www.sfcollege.edu/ite/contact/index)
 
 
 
-[^1]: https://catalog.sfcollege.edu/search_advanced.php?cur_cat_oid=4&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=33&filter%5Bkeyword%5D=COP2000
+[^1]:https://catalog.sfcollege.edu/preview_course.php?catoid=4&coid=1660&print
