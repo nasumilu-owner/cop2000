@@ -3,7 +3,7 @@
 ## Description
 The goal of this course is to provide an introduction to applications software design using structured programming concepts. This includes techniques for algorithm development, coding and testing. This course also provides an introduction to syntax and logic using a C-based language. It not only introduces a variety of concepts, but also discusses the most significant aspects of object-oriented programming. In addition to explaining concepts, the course uses programming assignments to reinforce the material in each chapter.[^1]
 
-Professor: [Michael Buchholz](https://www.sfcollege.edu/ite/contact/index) 
+Professor: [Artie Chestnut](https://www.sfcollege.edu/ite/contact/index) 
 
 ## Projects
 - [Project 1](./Project%201/) a basic program akin to a "hello world".
